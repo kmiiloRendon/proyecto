@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+h2{
+    color: brown;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+
+.banner{
+    background-color: blueviolet;
+    padding: 50px;
+}
+img{
+    
+    height: 300px;
+    width: 300px;
+}
